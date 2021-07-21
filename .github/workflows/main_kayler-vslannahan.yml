@@ -35,5 +35,5 @@ jobs:
       with:
         app-name: 'kayler-vslannahan'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_a844818f967d4d4a8e9c79cfc6d3e2fb }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_7495241153c84ad8803f5921da96bcbc }}
         package: '.\app.zip'
